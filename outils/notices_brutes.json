@@ -1,0 +1,333 @@
+[
+ {
+  "isbn": "9782800117911",
+  "title": "Largo Winch, tome 1",
+  "subtitle": "L'héritier",
+  "series": [
+   "Largo Winch (1)"
+  ],
+  "authors": [
+   "Philippe Francq",
+   "Jean Van Hamme"
+  ],
+  "publishers": [
+   "Dupuis"
+  ],
+  "publish_date": "November 1, 1990",
+  "pages": 48,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782800121277",
+  "title": "Largo Winch, tome 5",
+  "subtitle": "H",
+  "series": [
+   "Largo Winch (5)"
+  ],
+  "authors": [
+   "Philippe Francq",
+   "Jean Van Hamme"
+  ],
+  "publishers": [
+   "Dupuis"
+  ],
+  "publish_date": "September 7, 1994",
+  "pages": 48,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782800129815",
+  "title": "Largo Winch, tome 11",
+  "subtitle": "Golden Gate",
+  "series": [
+   "Largo Winch (11)"
+  ],
+  "authors": [
+   "Jean Van Hamme"
+  ],
+  "publishers": [
+   "Dupuis"
+  ],
+  "publish_date": "December 6, 2000",
+  "pages": 47,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782505019930",
+  "title": "Les vieux fourneaux - tome 1 - Ceux qui restent",
+  "subtitle": null,
+  "series": null,
+  "authors": [
+   "Wilfrid Lupano",
+   "Paul Cauuet (Illustrations)",
+   "Dargaud"
+  ],
+  "publishers": [
+   "DARGAUD",
+   "French and European Publications Inc"
+  ],
+  "publish_date": "Dec 28, 2016",
+  "pages": 56,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782505061632",
+  "title": "Les Vieux Fourneaux - Tome 2 - Bonny and Pierrot",
+  "subtitle": null,
+  "series": null,
+  "authors": [
+   "Lupano Wilfrid",
+   "Cauuet Paul"
+  ],
+  "publishers": [
+   "DARGAUD"
+  ],
+  "publish_date": "Oct 23, 2014",
+  "pages": 56,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782505063520",
+  "title": "Les Vieux Fourneaux - Tome 3 - Celui qui part",
+  "subtitle": null,
+  "series": null,
+  "authors": [
+   "Lupano Wilfrid",
+   "Cauuet Paul"
+  ],
+  "publishers": [
+   "DARGAUD"
+  ],
+  "publish_date": "Nov 13, 2015",
+  "pages": 64,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782203340220",
+  "title": "Le Chat, tome 10 ",
+  "subtitle": "Le Chat est content",
+  "series": null,
+  "authors": [
+   "Philippe Geluck"
+  ],
+  "publishers": [
+   "Casterman"
+  ],
+  "publish_date": "October 24, 2000",
+  "pages": 47,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782203340060",
+  "title": "Le Chat, tome 4 ",
+  "subtitle": "Le Quatrième Chat",
+  "series": null,
+  "authors": [
+   "Philippe Geluck"
+  ],
+  "publishers": [
+   "Casterman"
+  ],
+  "publish_date": "September 3, 1993",
+  "pages": 80,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782205049671",
+  "title": "Aldebaran, tome 1 ",
+  "subtitle": "La catastrophe",
+  "series": [
+   "Les Mondes d'Aldébaran (1)"
+  ],
+  "authors": [
+   "Léo"
+  ],
+  "publishers": [
+   "Dargaud"
+  ],
+  "publish_date": "January 1, 2000",
+  "pages": 52,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782205049695",
+  "title": "Aldebaran, tome 3 ",
+  "subtitle": "La Photo",
+  "series": [
+   "Les Mondes d'Aldébaran (3)"
+  ],
+  "authors": [
+   "Léo"
+  ],
+  "publishers": [
+   "Dargaud"
+  ],
+  "publish_date": "October 27, 1999",
+  "pages": 48,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782800100241",
+  "title": "Spirou et Fantasio, tome 22 ",
+  "subtitle": "L'Abbaye truquée",
+  "series": null,
+  "authors": [
+   "Fournier"
+  ],
+  "publishers": [
+   "Dupuis"
+  ],
+  "publish_date": "April 1, 1986",
+  "pages": 54,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782800100913",
+  "title": "Le Cas Lagaffe (Gaston Lagaffe)",
+  "subtitle": null,
+  "series": null,
+  "authors": [
+   "André Franquin"
+  ],
+  "publishers": [
+   "Editions Dupuis"
+  ],
+  "publish_date": "January 1, 1971",
+  "pages": null,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782800100937",
+  "title": "Gala Des Gaffes a Gogo (Gaston Lagaffe)",
+  "subtitle": null,
+  "series": null,
+  "authors": [
+   "André Franquin"
+  ],
+  "publishers": [
+   "Editions Dupuis"
+  ],
+  "publish_date": "1970-01-01",
+  "pages": null,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782800121017",
+  "title": "Yoko Tsuno, tome 20 ",
+  "subtitle": "L'astrologue de Bruges",
+  "series": [
+   "Yoko Tsuno (20)"
+  ],
+  "authors": [
+   "Roger Leloup"
+  ],
+  "publishers": [
+   "Dupuis"
+  ],
+  "publish_date": "October 5, 1994",
+  "pages": 72,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782800106878",
+  "title": "Yoko Tsuno, tome 10 ",
+  "subtitle": "La lumière d'Ixo",
+  "series": [
+   "Yoko Tsuno (10)"
+  ],
+  "authors": [
+   "Roger Leloup"
+  ],
+  "publishers": [
+   "Dupuis"
+  ],
+  "publish_date": "April 1, 1986",
+  "pages": 46,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782205069181",
+  "title": "Asterix and the Soothsayer",
+  "subtitle": null,
+  "series": [
+   "Adventures of Asterix (19)"
+  ],
+  "authors": [
+   "René Goscinny"
+  ],
+  "publishers": [
+   "Charles River Books"
+  ],
+  "publish_date": "June 1979",
+  "pages": null,
+  "has_cover": false
+ },
+ {
+  "isbn": "9782803604074",
+  "title": "Thorgal, tome 5",
+  "subtitle": "au-delà des ombres",
+  "series": [
+   "Thorgal (5)"
+  ],
+  "authors": [
+   "Grzegorz Rosiński",
+   "Jean Van Hamme"
+  ],
+  "publishers": [
+   "Le Lombard"
+  ],
+  "publish_date": "June 7, 1996",
+  "pages": 48,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782803605156",
+  "title": "Thorgal, tome 9",
+  "subtitle": "Les Archers",
+  "series": [
+   "Thorgal (9)"
+  ],
+  "authors": [
+   "Grzegorz Rosiński",
+   "Jean Van Hamme"
+  ],
+  "publishers": [
+   "Le Lombard"
+  ],
+  "publish_date": "June 7, 1996",
+  "pages": 48,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782205037531",
+  "title": "Blake et Mortimer",
+  "subtitle": "L'Enigme de l'Atlantide",
+  "series": null,
+  "authors": [
+   "Edgar P. Jacobs"
+  ],
+  "publishers": [
+   "Blake et Mortimer"
+  ],
+  "publish_date": "May 29, 1998",
+  "pages": null,
+  "has_cover": true
+ },
+ {
+  "isbn": "9782884710305",
+  "title": "La guérison des dalton",
+  "subtitle": null,
+  "series": [
+   "Lucky Luke (12)"
+  ],
+  "authors": [
+   "René Goscinny"
+  ],
+  "publishers": [
+   "Lucky Productions"
+  ],
+  "publish_date": "June 28, 2001",
+  "pages": 46,
+  "has_cover": true
+ }
+]

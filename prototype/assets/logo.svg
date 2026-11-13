@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <rect width="48" height="48" rx="12" fill="#C0532F"/>
+  <g fill="#FFF6E6" stroke="#FFF6E6" stroke-width="1" stroke-linejoin="round">
+    <!-- Toit : les deux plats d'un album ouvert, posé à l'envers -->
+    <path d="M22.9 7.4 5.4 20.5l2.3 2.6L22.9 11.6z"/>
+    <path d="M25.1 7.4 42.6 20.5l-2.3 2.6L25.1 11.6z"/>
+    <!-- Façade : une planche, le pignon fait la première case -->
+    <path d="M11.5 24.1 24 14.7l12.5 9.4v5.4h-25z"/>
+  </g>
+  <g fill="#FFF6E6">
+    <rect x="11" y="32" width="12" height="9.5" rx="1.6"/>
+    <rect x="25" y="32" width="12" height="9.5" rx="1.6"/>
+  </g>
+  <!-- Le filet sépare la couverture de la tranche des pages -->
+  <path d="M22.9 9.9 7.2 21.6M25.1 9.9l15.7 11.7" stroke="#C0532F" stroke-width="0.9" stroke-linecap="round"/>
+  <!-- Une bulle dans le pignon -->
+  <path d="M19.6 21.3h8.8a1.9 1.9 0 0 1 1.9 1.9v.9a1.9 1.9 0 0 1-1.9 1.9h-5.2l-3 2 .7-2h-1.3a1.9 1.9 0 0 1-1.9-1.9v-.9a1.9 1.9 0 0 1 1.9-1.9z" fill="#C0532F"/>
+</svg>
