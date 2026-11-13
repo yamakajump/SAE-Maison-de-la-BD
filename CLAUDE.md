@@ -64,7 +64,7 @@ Le script utilise le Chrome installé (`channel="chrome"`) et écrit dans `.clau
 ## Règles du projet
 
 - **Tout en français** : interface, commentaires, commits, docs. Le code (variables, fonctions) en anglais.
-- **Jamais de tiret cadratin** (le tiret long, U+2014) nulle part. Utiliser un tiret court, une virgule ou deux-points. Vérifier en fin de chantier avec `grep -rnP "\x{2014}" .`.
+- **Jamais de tiret cadratin** (le tiret long, U+2014) nulle part. Utiliser un tiret court, une virgule ou deux-points. Vérifier en fin de chantier avec `LC_ALL=C.UTF-8 grep -rnP "\x{2014}" .`.
 - **Vocabulaire du public** : « album », « code-barres », « où le trouver ». Jamais « notice » ni « ISSN » côté public.
 - **DA** : partir des tokens existants, ne jamais réintroduire de couleur ou de police hors palette, une seule couleur d'action (braise). Aucun rendu par défaut de bibliothèque.
 - **Vérifier visuellement** : tout changement visible se valide en relançant `capturer.py` et en regardant les captures, en clair et en sombre, avant de le présenter.
